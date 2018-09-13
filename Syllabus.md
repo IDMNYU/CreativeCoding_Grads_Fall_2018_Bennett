@@ -5,6 +5,7 @@ Course repo for Creative Coding Grad section A with Katherine Bennett
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
 * [Slack:](https://idm-grad-6063-cc.slack.com) https://idm-grad-6063-cc.slack.com
+* [OpenProcessing](https://www.openprocessing.org/class/58523)
 
 * **Office Hours: by appointment** 
 * **GA:TBA Email: ** Time: TBD MAGNET ROOM TBD**

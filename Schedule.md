@@ -19,12 +19,12 @@
 		<li> Read: Learning Processing - Ch. 1 - 2</li>
 		<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6)</li> </a>
 		<li>Get a <a href = https://github.com/>Github account</a> and DM me on Slack your user name (and NOT a link to your login)</li>
-		<li><a href = "https://idm-grad-6063-cc.slack.com">Look in your NYU email for a Slack invitation to join the Slack channel for this course </a></li>
+		<li><a href = "https://idm-grad-6063-cc.slack.com">join the Slack channel for this course </a></li>
  		<li>Install <a href = https://processing.org/download/>Processing</a>. </li>
  		<li>Go through the examples in Processing and explore them.</li>
 		<li>Install  <a href = "https://desktop.github.com/"> Github Desktop for Mac/Windows </a> </li> 
 		<li> Install <a href = "http://www.sublimetext.com/"> Sublime </a></li>
-		<li> Join our class on <a href ="https://www.openprocessing.org/class/XXXX">openProcessing </a> and enter code .... </li>
+		<li> Join our class on <a href ="https://www.openprocessing.org/class/58523">openProcessing </a> and enter code FCBC16 </li>
 	</td>
 </tr>
 
@@ -153,8 +153,8 @@
 
 <tr>
 	<td valign="top">13 <br><br> Dec 6 <br> </td>
-	<td valign = "top">Topics by request <br> <br> Show & Tell <br> 
-	</td>
+	<td valign = "top"> <strong> Beta Version of Final Project due</strong> <br> <br> Topics by request <br> <br> Show & Tell <br> 
+
 	<td>
 		<li> <a href = "Final_Project.md">Work on Final Project </a></li>
 		
