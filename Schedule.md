@@ -154,7 +154,7 @@
 <tr>
 	<td valign="top">13 <br><br> Dec 6 <br> </td>
 	<td valign = "top"> <strong> Beta Version of Final Project due</strong> <br> <br> Topics by request <br> <br> Show & Tell <br> 
-
+		<td>
 	<td>
 		<li> <a href = "Final_Project.md">Work on Final Project </a></li>
 		
