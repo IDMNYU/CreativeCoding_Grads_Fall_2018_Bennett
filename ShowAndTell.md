@@ -31,53 +31,40 @@ Get familiar with your display preferences in advance!! I'm not kidding either. 
 
 
 
-Week  2 -  
+Week  3 -  Casey Reas, Ben Fry  ---> 
 
+Week  3 - Zachary Lieberman, Golan Levin (drawing systems + collaborations) ---> 
 
-Week  3 - 
+Week  4 - United Visual Artists, Hellicar & Lewis, Seb Lee-Delisle --->  
 
+week 4 - Moritz Stefaner, Martin Wattenberg --->
 
-Week  4 - Casey Reas, Zachary Lieberman, Golan Levin (drawing systems + collaborations) ---> Aubree
+Week  5 - Kyle McDonald, Julian Oliver ---> 
 
+week 5 - Jer Thorpe, Soso Limited --->
 
+Week  6 -  N-e-r-v-o-u-s-S-y-s-t-e-m, Field - http://www.field.io/ ---> 
 
-Week  5 - United Visual Artists, Hellicar & Lewis, Seb Lee-Delisle ---> 
+week 6 -  Marius Watz & Memo Akten --->
 
+Week  7 - Diato Manabe, Josh Nimoy  ---> 
 
-Kyle McDonald, Julian Oliver ---> 
+Week 7 - Leo Villareal, Cedric Kiefer --->
 
-
-Week  6 -  N-e-r-v-o-u-s-S-y-s-t-e-m, Soso Limited, Field - http://www.field.io/ ---> 
-
-Jer Thorpe, Moritz Stefaner, Martin Wattenberg --->  
-
-
-
-Week  7 - Marius Watz, Josh Nimoy  ---> 
-
-Diato Manabe, Memo Akten --> 
-
+Week 8 - Eno Henze, Dedric Kiefer --->
 
 Week  9 - Jurg Lehni, Red Paper Heart, rAndom International   ---> 
 
+Week  10 - Amit Pitaru, Waltz Binarie  ---> 
 
-Week  10 - Amit Pitaru, Eno Henze  ---> 
+Week  11 - Karolina Sobecka, Future Cities Lab --->
 
-Cedric Kiefer,Future Cities Lab ---> 
+Week  12 -  Robert Hodgin - Flight404, Karsten Schmidt ---> Dhruv
 
+Week  13 -  Lauren McCarthy, Lia ---> 
 
+Week  13 - Ryan Habbyshaw, Michael Hansmeyer  ---> 
 
-Week  11 - Leo Villareal, Karolina Sobecka ---> 
+Week 13 - Paul Prudence, Santiago Ortiz(Moebio.com) --->
 
-
-Week  12 -  Robert Hodgin - Flight404, Karsten Schmidt ---> 
-
-
-Week  13 -  Lauren McCarthy, Lia, Santiago Ortiz (Moebio.com)---> 
-
-
-Week  14 - Ryan Habbyshaw, Michael Hansmeyer, Waltz Binarie ---> 
-
-
-
-Extra Credit Possibilities:  Paul Prudence, Moment Factory, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
+Extra Credit Possibilities:  Moment Factory, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
