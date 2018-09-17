@@ -31,40 +31,40 @@ Get familiar with your display preferences in advance!! I'm not kidding either. 
 
 
 
-Week  3 -  Casey Reas, Ben Fry  ---> 
+Week  3 -  Casey Reas, Ben Fry  ---> Dhruv
 
-Week  3 - Zachary Lieberman, Golan Levin (drawing systems + collaborations) ---> 
+Week  3 - Zachary Lieberman, Golan Levin (drawing systems + collaborations) ---> Zhenwen
 
-Week  4 - United Visual Artists, Hellicar & Lewis, Seb Lee-Delisle --->  
+Week  4 - United Visual Artists, Hellicar & Lewis, Seb Lee-Delisle --->  Oze
 
-week 4 - Moritz Stefaner, Martin Wattenberg --->
+week 4 - Moritz Stefaner, Martin Wattenberg ---> Man-Ping
 
-Week  5 - Kyle McDonald, Julian Oliver ---> 
+Week  5 - Kyle McDonald, Julian Oliver --->  Chaoyue
 
-week 5 - Jer Thorpe, Soso Limited --->
+week 5 - Jer Thorpe, Soso Limited ---> Ming
 
-Week  6 -  N-e-r-v-o-u-s-S-y-s-t-e-m, Field - http://www.field.io/ ---> 
+Week  6 -  N-e-r-v-o-u-s-S-y-s-t-e-m, Field - http://www.field.io/ ---> Chuyi
 
-week 6 -  Marius Watz & Memo Akten --->
+week 6 -  Marius Watz & Memo Akten ---> Lily
 
-Week  7 - Diato Manabe, Josh Nimoy  ---> 
+Week  7 - Diato Manabe, Josh Nimoy  ---> Yuhan
 
-Week 7 - Leo Villareal, Cedric Kiefer --->
+Week 7 - Leo Villareal, Cedric Kiefer ---> Jiamin
 
-Week 8 - Eno Henze, Dedric Kiefer --->
+Week 8 - Eno Henze, Dedric Kiefer ---> Sai
 
-Week  9 - Jurg Lehni, Red Paper Heart, rAndom International   ---> 
+Week  9 - Jurg Lehni, Red Paper Heart, rAndom International   --->  Wenye
 
-Week  10 - Amit Pitaru, Waltz Binarie  ---> 
+Week  10 - Amit Pitaru, Waltz Binarie  ---> Smady
 
-Week  11 - Karolina Sobecka, Future Cities Lab --->
+Week  11 - Karolina Sobecka, Future Cities Lab ---> Samantha
 
-Week  12 -  Robert Hodgin - Flight404, Karsten Schmidt ---> Dhruv
+Week  12 -  Robert Hodgin - Flight404, Karsten Schmidt ---> Sara
 
-Week  13 -  Lauren McCarthy, Lia ---> 
+Week  13 -  Lauren McCarthy, Lia ---> Karla
 
-Week  13 - Ryan Habbyshaw, Michael Hansmeyer  ---> 
+Week  13 - Ryan Habbyshaw, Michael Hansmeyer  ---> Carolina
 
-Week 13 - Paul Prudence, Santiago Ortiz(Moebio.com) --->
+Week 13 - Paul Prudence, Santiago Ortiz(Moebio.com) ---> Zhenwen
 
 Extra Credit Possibilities:  Moment Factory, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
