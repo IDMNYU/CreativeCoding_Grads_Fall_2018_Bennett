@@ -151,6 +151,8 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 
 • [Transformations - rotation, scale, etc](http://genekogan.com/code/p5js-transformations/)
 
+• [Curvers](http://yining1023.github.io/p5PlayGround/) <-- flip the live coding switch to playground
+
 ### Text Editors
 
 • [Brackets](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
