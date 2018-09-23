@@ -4,11 +4,11 @@ https://processing.org/handbook/
 
 tweaked by Katherine Bennett 2016
 */
-
+int c = 50;
 void setup(){
   size(400, 400);
   background(210, 164, 255); //  purple
-  
+  //frameRate(5);
 }
 
 
@@ -22,8 +22,10 @@ void draw(){
       line(x, y, x-3, y-3);
     }
   }
-  
   popMatrix();
-  
-  
+  /*
+  ellipse(c, height/2, 50, 50);
+  c+= 10;
+  println(c);
+  */
 }

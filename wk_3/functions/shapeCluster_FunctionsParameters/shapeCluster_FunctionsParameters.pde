@@ -41,7 +41,7 @@ void draw() {
      stepY += 10;
     println("yes");
     if(stepY > height){
-      stepY = 0;
+      stepY =  0;
     }
   }
   
