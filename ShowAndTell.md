@@ -33,7 +33,7 @@ Get familiar with your display preferences in advance!! I'm not kidding either. 
 
 Week  3 -  Casey Reas, Ben Fry  ---> Dhruv
 
-Week  3 - Zachary Lieberman, Golan Levin (drawing systems + collaborations) ---> Zhenwen
+Week  3 -  Amit Pitaru, Waltz Binarie  ---> Smady
 
 Week  4 - United Visual Artists, Hellicar & Lewis, Seb Lee-Delisle --->  Oze
 
@@ -55,7 +55,7 @@ Week 8 - Eno Henze, Dedric Kiefer ---> Sai
 
 Week  9 - Jurg Lehni, Red Paper Heart, rAndom International   --->  Wenye
 
-Week  10 - Amit Pitaru, Waltz Binarie  ---> Smady
+Week  10 - Zachary Lieberman, Golan Levin (drawing systems + collaborations) --> Zhenwen
 
 Week  11 - Karolina Sobecka, Future Cities Lab ---> Samantha
 
