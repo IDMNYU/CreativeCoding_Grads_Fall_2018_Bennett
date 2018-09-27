@@ -65,6 +65,6 @@ Week  13 -  Lauren McCarthy, Lia ---> Karla
 
 Week  13 - Ryan Habbyshaw, Michael Hansmeyer  ---> Carolina
 
-Week 13 - Paul Prudence, Santiago Ortiz(Moebio.com) ---> Zhenwen
+Week 13 - Paul Prudence, Santiago Ortiz(Moebio.com) ---> 
 
-Extra Credit Possibilities:  Moment Factory, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
+Extra Credit Possibilities:  Nina Wenhart, Rui Pereira, Todd Vanderlin,Moment Factory, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
