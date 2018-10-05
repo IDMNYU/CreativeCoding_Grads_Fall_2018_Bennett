@@ -66,6 +66,8 @@
 	Algorithms<br> <br>debugging<br> <br> Pseudo code <br> <br>In-class Exercise <br> <br> Show & Tell <br> <br></td>
 	<td valign="top"><li> Read: Learning Processing - Ch. 9</li> <li>Read: <a href = "https://p5js.org/get-started/">Getting Started in P5.js </a> </li> <br>
   	<li> Read: <a href = "https://github.com/processing/p5.js/wiki/Processing-transition"> Processing transition tutorial </a> </li>
+  	<li> Watch: <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA"> Javascript Objects, Map and random- 2.3-2.5</a></li>
+		<li>Read: <a href = "https://natureofcode.com/book/introduction/"> Nature of Code introduction </a> </li>
   	<li> Watch: <a href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA"> Foundations of Programming in JavaScript 1.1-2.2 </a>
   	<li>Read: Learning Processing - Ch. 8 </li>
   	<a href = "Sketch_3.md"> Sketch 3</a> <br>
