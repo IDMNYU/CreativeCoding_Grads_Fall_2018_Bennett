@@ -1,7 +1,17 @@
 ### Resources for DM-GY-6063-A Creative Coding
 ##### Fall 2018 • Katherine Bennett • Thursday 19:00 - 21:50 
 
-### Creative Coding GA
+### Creative Coding GA:
+
+* **GA: Che-Yu**
+* **Contact for Che-yu: [calendar](https://calendly.com/cyw345/office-hour-of-creative-coding-ta-che-yu/09-21-2018)  maximum 3 people per hour**
+* **Place: The red area in front of classroom 832 (with white board)** *
+
+* **Weekly Time:**
+* **1. Monday 10 AM - 6 PM**
+* **2. Wednesday 18 PM - 22 PM**
+* **3. Friday 10 AM - 6 PM**
+
 
 ### [OpenProcessing](https://www.openprocessing.org/class/58523)
 
