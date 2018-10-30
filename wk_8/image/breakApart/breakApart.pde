@@ -1,3 +1,5 @@
+/// more comments
+
 PImage img;       // The source image
 int cellsize = 2; // Dimensions of each cell in the grid
 int cols, rows;   // Number of columns and rows in our system

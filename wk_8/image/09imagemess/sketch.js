@@ -26,7 +26,7 @@ function keyTyped()
     {
       var pixel = img.get(i, j);
       var newpixel = [];
-      /*
+      ///*
        newpixel[0] = pixel[1]; // R
        newpixel[1] = pixel[2]; // G
        newpixel[2] = pixel[0]; // B
@@ -38,7 +38,7 @@ function keyTyped()
        newpixel[3] = 255;
       img.set(i, j, newpixel);
       img.set(i, j, 0);
-      */
+      //*/
       img.set(i+floor(random(-30, 30)), j+floor(random(-30,30)), pixel);
     }
   }

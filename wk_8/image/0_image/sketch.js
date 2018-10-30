@@ -4,7 +4,7 @@ var x, y, rotation;
 // asychronously
 function preload(){
   // heavy stuff
- // img = loadImage("data/Monster_300_204.png");
+  //img = loadImage("data/Monster_300_204.png");
   //img2 = loadImage("data/legoVader.png")
 }
 
