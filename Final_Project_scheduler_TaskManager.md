@@ -22,7 +22,7 @@ Begin working on your [final project](Final_Project.md) by doing the following:
 #### Fourth Step:
 * Then, break _each_ of your goals down into smaller tasks. Stage these smaller tasks as goals for each of the 3 weeks. 
 
-Break these tasks down into decipherable tasks, tasks that are actionable. From this point, write pseudo code and translate that into code. 
+* Break these tasks down into decipherable tasks, tasks that are actionable. From this point, write pseudo code and translate that into code. 
 
 
 #### Fifth Step:
