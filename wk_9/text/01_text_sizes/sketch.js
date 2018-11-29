@@ -58,19 +58,19 @@ function draw() {
   fphases[0] = (fphases[0] + speed) % TWO_PI;
 
   s = map(sin(fphases[1]), -1.0, 1.0, 9, 64);
-  textFont(theFont[1],36);
+  textFont(theFont[1],s);
   text('cat', thex, they);
   thex += textWidth('cat ');
   fphases[1] = (fphases[1] + speed) % TWO_PI;
 
   s = map(sin(fphases[2]), -1.0, 1.0, 9, 64);
-  textFont(theFont[2],36);
+  textFont(theFont[2],s);
   text('has', thex, they);
   thex += textWidth('has ');
   fphases[2] = (fphases[2] + speed) % TWO_PI;
 
   s = map(sin(fphases[3]), -1.0, 1.0, 9, 64);
-  textFont(theFont[3],36);
+  textFont(theFont[3],s);
   text('ticks', thex, they);
   thex += textWidth('ticks ');
   fphases[3] = (fphases[3] + speed) % TWO_PI;
