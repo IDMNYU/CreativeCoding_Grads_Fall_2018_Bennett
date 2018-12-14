@@ -32,7 +32,7 @@ Using Word or another text editor, reflect on the following:
 
 • concept paragraph answering the following: What is your piece about? What's the concept? Is it interactive, responsive or time based?, name of piece
 
-• Email me the above documents.
+• Direct Message me on Slack  the above documents.
 
 
 • Submit any missing exercises to get credit for them. Post them to github and DM me that they are up.
